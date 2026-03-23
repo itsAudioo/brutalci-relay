@@ -1,0 +1,3 @@
+C:\Users\itsaudio\Desktop\BrutalciPCCheck\BrutalciClient\BrutalciClient.Relay\bin\Release\net8.0\win-x64\publish\BrutalciRelay.pdb
+C:\Users\itsaudio\Desktop\BrutalciPCCheck\BrutalciClient\BrutalciClient.Relay\bin\Release\net8.0\win-x64\publish\aspnetcorev2_inprocess.dll
+C:\Users\itsaudio\Desktop\BrutalciPCCheck\BrutalciClient\BrutalciClient.Relay\bin\Release\net8.0\win-x64\publish\BrutalciRelay.exe

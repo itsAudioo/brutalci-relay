@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "RIpFkeE5NcI=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\itsaudio\\Desktop\\BrutalciPCCheck\\BrutalciClient\\BrutalciClient.Relay\\BrutalciClient.Relay.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\itsaudio\\.nuget\\packages\\microsoft.netcore.app.runtime.linux-x64\\8.0.25\\microsoft.netcore.app.runtime.linux-x64.8.0.25.nupkg.sha512",
+    "C:\\Users\\itsaudio\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.linux-x64\\8.0.25\\microsoft.aspnetcore.app.runtime.linux-x64.8.0.25.nupkg.sha512",
+    "C:\\Users\\itsaudio\\.nuget\\packages\\microsoft.netcore.app.host.linux-x64\\8.0.25\\microsoft.netcore.app.host.linux-x64.8.0.25.nupkg.sha512"
+  ],
+  "logs": []
+}
