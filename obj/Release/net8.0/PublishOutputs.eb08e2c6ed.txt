@@ -1,5 +1,0 @@
-C:\Users\itsaudio\Desktop\BrutalciPCCheck\BrutalciClient\publish\Relay\BrutalciRelay.exe
-C:\Users\itsaudio\Desktop\BrutalciPCCheck\BrutalciClient\publish\Relay\BrutalciRelay.dll
-C:\Users\itsaudio\Desktop\BrutalciPCCheck\BrutalciClient\publish\Relay\BrutalciRelay.deps.json
-C:\Users\itsaudio\Desktop\BrutalciPCCheck\BrutalciClient\publish\Relay\BrutalciRelay.runtimeconfig.json
-C:\Users\itsaudio\Desktop\BrutalciPCCheck\BrutalciClient\publish\Relay\BrutalciRelay.pdb
